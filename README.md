@@ -1,0 +1,1 @@
+This is my 3d tic tac toe board that is derived from my 2D board. The first player is randomly selected, and then the user and computer play until all spots are filled, gives the final score, and declares a winner.
